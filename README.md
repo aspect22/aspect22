@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aspect uwu
+- 👋 Hi, I’m Aspect
 - 👀 I’m interested in exploitation and ethical hacking
 - 🌱 I’m currently learning LUA
-- ⚧ He/him
+- ♂️ He/him
 - 💯 fuck my life
-- 😎 asexuell 
+- 😎 Asexuell 
