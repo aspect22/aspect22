@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning LUA
 - ♂️ He/him
 - 💯 fuck my life
-- 😎 Asexuell 
+- 😎 Asexual
