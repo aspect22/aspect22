@@ -4,3 +4,4 @@
 - ♂️ He/him
 - 💯 fuck my life
 - 😎 Asexual
+- Github default stuff sucks
