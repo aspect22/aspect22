@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=aspect22&icon=2&color=6)](https://visitcount.itsvg.in)
-
 # About Me :
 I make software
 good software
@@ -9,6 +7,8 @@ many software
 cool software
 india software
 quick software
+
+[![](https://visitcount.itsvg.in/api?id=aspect22&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ## Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/justaspect) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/justaspect33) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AspectXD22) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC6nnYV0IHa6-C0Q6kl3uvRw) 
