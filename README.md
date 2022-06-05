@@ -34,7 +34,7 @@ quick software
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" />  
 </div>  
 
-# GitHub Stats :
+## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=aspect22&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aspect22&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aspect22&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
