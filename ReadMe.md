@@ -1,5 +1,5 @@
 # About Me:
-Learning Lua/C++/C# and many other languages<br><br>My public repos are nice for beginners to learn<br><br>I dont actively upload because i have a real life
+Learning Lua/C++/C# and many other languages<br><br>My public repos are nice for beginners to learn<br><br>Currently learning graphics programming in OpenGL/GLFW3
 <br></br>
 [![](https://visitcount.itsvg.in/api?id=aspect22&icon=2&color=6)](https://visitcount.itsvg.in)
 
