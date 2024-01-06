@@ -14,7 +14,7 @@ Learning Lua/C++/C# and many other languages<br><br>My public repos are nice for
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=aspect22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aspect22&theme=radical&hide_border=false&include_all_commits=true&count)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aspect22&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aspect22&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=aspect22&limit=5&theme=radical&combine_all_yearly_contributions=true)
