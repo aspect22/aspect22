@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 Trainee / Junior Developer<br><br>
-Currently learning graphics programming in OpenGL/GLFW3<br><br>Current most active Project: none<br><br>https://aspect22.github.io/
+Currently learning graphics programming in OpenGL/GLFW3<br><br>Current most active Project: none<br><br>https://aspect22.github.io<br><br>https://x.com/oxydev_
+
 
 [![](https://visitcount.itsvg.in/api?id=aspect22&icon=0&color=12)](https://visitcount.itsvg.in)
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oxydev_) 
 
 # 📊 GitHub Stats:
 
